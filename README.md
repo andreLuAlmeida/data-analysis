@@ -4,18 +4,17 @@ This repository contains my **studies and practical projects in Data Analysis us
 The goal is to consolidate fundamental and applied concepts, focusing on clean code, data processing, and exploratory analysis.
 
 ## Repository Structure
-
+```
 analise-de-dados/
 ├── estudos/
-│ ├── revisao_python/
-│ └── tratamento_dados/
+│   ├── revisao_python/
+│   └── tratamento_dados/
 │
 ├── projetos/
-│ └── analise_exploratoria/
+│   └── analise_exploratoria/
 │
-├── venv/
 └── README.md
-
+```
 ## Topics Covered
 
 - Python fundamentals for data analysis
